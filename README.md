@@ -1,2 +1,2 @@
 # wikipedia-using-python
-extracting data using from wikipedia  using pyton
+extracting data from wikipedia  using pyton
